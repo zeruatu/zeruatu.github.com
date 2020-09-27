@@ -16,5 +16,5 @@
 ### 自我评价
 *具有良好的自学能力,乐于学习新技术
 ### 证件照
-*<img src="423B958CE00D4598EF34EFFA652B97FE.png" width="100%">   
+*<img src="423B958CE00D4598EF34EFFA652B97FE.png" width="128">   
  
